@@ -1,7 +1,6 @@
 # Plant-diseases-binnary-classification
 Simple code for begginer binary classification
 
-=============================================================
 Foliar (leaf) diseases are a major threat to productivity
 overall and tree quality. The Current Process for Diagnosing Tree Diseases
 relies on manual human screening, which is time consuming and expensive.
